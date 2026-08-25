@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/ishita2004/flyrank-ml-internship/blob/main/docs/index.html
