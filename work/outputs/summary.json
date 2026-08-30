@@ -1,0 +1,10 @@
+{
+  "total_candidates": 6163,
+  "precision_at_50": 0.68,
+  "top_action": "optimize_snippet",
+  "action_distribution": {
+    "optimize_snippet": 2498,
+    "rearchitect_links": 2143,
+    "monitor": 1522
+  }
+}
